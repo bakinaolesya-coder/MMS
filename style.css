@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+}
+h1{color:blue}
+
+ul:hover{transform:translateX(960px);background-image: linear-gradient(green,white,yellow);transition:all 10s ease-out;}
+.product{opacity: 0.2;}
+.product:hover{opacity :1;border: 10px double navy;transition: all 2s linear;}
